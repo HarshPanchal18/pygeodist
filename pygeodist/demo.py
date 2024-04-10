@@ -1,5 +1,5 @@
-from geodistance.point import Point
-from geodistance.main import calculate_distance
+from point import Point
+from main import calculate_distance
 
 point1 = Point(41.19,65.85)
 point2 = Point(29.19,16.85)

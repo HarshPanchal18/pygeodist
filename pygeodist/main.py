@@ -1,5 +1,5 @@
 import math
-from point import Point
+from geodistance.point import Point
 
 def calculate_distance(pointA: Point, pointB: Point, unit: str = "km", result_decimal: int = 4):
 
